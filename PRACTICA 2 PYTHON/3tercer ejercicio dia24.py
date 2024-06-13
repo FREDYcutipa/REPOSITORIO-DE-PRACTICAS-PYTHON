@@ -1,0 +1,10 @@
+# PRIMERO INGRESAR DATOS
+a = 2
+b = 4
+c = 6
+
+ #REALIZAR EL EJERCICIO
+R = a * (c % b)
+ 
+ #SACAR EL RESULTADO
+print("LA RESPUESTA ES:", R)
