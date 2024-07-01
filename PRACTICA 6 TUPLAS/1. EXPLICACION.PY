@@ -1,4 +1,5 @@
-# Utilizando paréntesis:
+# MUY BIEN FREDY SIGUE ADELANTE
+# Utilizando paréntesis: 
 MI_TUPLA = (1, 2, 3, 4)
 
 # Utilizando la función tuple():
